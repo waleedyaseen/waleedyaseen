@@ -58,7 +58,7 @@ I am a passionate software engineer with an interest in reverse engineering, cre
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-008C99?logo=continuous-integration&logoColor=white&style=flat-square)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=white&style=flat-square)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square)
 ![Nginx](https://img.shields.io/badge/-Nginx-269539?logo=nginx&logoColor=white&style=flat-square)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat-square)
