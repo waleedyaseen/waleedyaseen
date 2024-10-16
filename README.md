@@ -76,6 +76,7 @@ I am a passionate software engineer with an interest in reverse engineering, cre
 ![Ghidra](https://img.shields.io/badge/-Ghidra-FF8300?logo=ghidra&logoColor=white&style=flat-square)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira-software&logoColor=white&style=flat-square)
+![Asana](https://img.shields.io/badge/-Asana-F06A6A?logo=asana&logoColor=white&style=flat-square)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-000000?logo=intellij-idea&logoColor=white&style=flat-square)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipse&logoColor=white&style=flat-square)
 ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white&style=flat-square)
